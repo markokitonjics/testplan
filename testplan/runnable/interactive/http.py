@@ -32,6 +32,7 @@ def generate_interactive_api(ihandler):
         os.path.dirname(testplan.__file__), "web_ui", "testing", "build"
     )
     static_dir = os.path.join(build_directory, "static")
+    print(static_dir)
 
     api_prefix = "/api/v1/interactive"
     api_blueprint = flask.Blueprint("api", "testplan")

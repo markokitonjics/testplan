@@ -8,6 +8,7 @@ import os
 import random
 import re
 import sys
+from concurrent import futures
 
 from testplan.testing.multitest import MultiTest, testsuite, testcase
 from testplan import Testplan
@@ -796,6 +797,7 @@ plan = Testplan(
 
 plan.add(MultiTest(name='Assertions Test', suites=[SampleSuite()]))
 ihandler = base.TestRunnerIHandler(target=plan, http_port=0)
+ihandler._pool = futures.ThreadPoolExecutor(max_workers=1)
 application, _ = http.generate_interactive_api(ihandler)
 
 
