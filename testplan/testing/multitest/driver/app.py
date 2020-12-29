@@ -222,6 +222,7 @@ class App(Driver):
                 os.symlink(os.path.abspath(self.binary), target)
                 self.binary = target
 
+
         makedirs(self.app_path)
         self.std = StdFiles(self.app_path)
 
