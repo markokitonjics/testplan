@@ -5,9 +5,6 @@ exports[`InteractiveNavEntry renders a testcase in "failed" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
       "userSelect": "text",
     }
@@ -87,9 +84,6 @@ exports[`InteractiveNavEntry renders a testcase in "not_run" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
       "userSelect": "text",
     }
@@ -169,9 +163,6 @@ exports[`InteractiveNavEntry renders a testcase in "passed" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
       "userSelect": "text",
     }
@@ -251,15 +242,16 @@ exports[`InteractiveNavEntry renders a testcase in "ready" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -337,15 +329,16 @@ exports[`InteractiveNavEntry renders a testcase in "resetting" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -423,15 +416,16 @@ exports[`InteractiveNavEntry renders a testcase in "running" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -509,15 +503,16 @@ exports[`InteractiveNavEntry renders a testcase in "waiting" state 1`] = `
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -595,15 +590,16 @@ exports[`InteractiveNavEntry renders an entry with environment status STARTED 1`
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -742,15 +738,16 @@ exports[`InteractiveNavEntry renders an entry with environment status STARTING 1
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -890,15 +887,16 @@ exports[`InteractiveNavEntry renders an entry with environment status STOPPED 1`
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
@@ -1037,15 +1035,16 @@ exports[`InteractiveNavEntry renders an entry with environment status STOPPING 1
   className="d-flex justify-content-between align-items-center"
   style={
     Object {
-      "MozUserSelect": "text",
-      "MsUserSelect": "text",
-      "UserSelect": "text",
       "height": "1.5em",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "userSelect": "text",
 =======
       "webkitUserSelect": "text",
 >>>>>>> 067f351 (Made the tree view navigation scrollable)
+=======
+      "userSelect": "text",
+>>>>>>> 1b64820 (Fixed entry icon cutoff workaround)
     }
   }
 >
