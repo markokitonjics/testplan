@@ -160,6 +160,11 @@ const continueTreeBranch = (props, entry) => {
       />) : null;
 };
 
+const continueTreeBranch = (props, entry) => {
+  return Array.isArray(entry.entries) ?
+    entry.entries.map((entry) => createNode(props, entry)) : null
+}
+
 const createNavEntry = (props, entry) => {
   return (
     <NavEntry
